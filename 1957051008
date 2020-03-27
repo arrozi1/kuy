@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+void segitiga(float *panjang, float *lebar)
+{ 
+float a,b;
+cout <<"Masukan alas :";
+cin>>a;
+cout<<"Masukan tinggi :";
+cin>>b;
+*panjang=a;
+*lebar=b;
+}
+void lingkaran(float*panjang)
+{ 
+float a;
+cout <<" masukan panjang jari-jari :";
+cin>>a;
+*panjang=a;
+}
