@@ -70,3 +70,4 @@ int main(){
     cetakList();
     return 0;
 }
+
